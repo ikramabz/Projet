@@ -17,7 +17,7 @@ Chaque projet présente le sujet étudié, les principales méthodes utilisées 
 
 ## Technologies utilisées
 
-Python • R • SQL • Dash • Plotly • Power BI • Git • GitHub
+Python • Dash • GitHub
 
 ## À propos du portfolio
 
