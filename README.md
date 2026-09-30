@@ -1,26 +1,24 @@
 # Portfolio - Ikram Abouzayd
 
-Bienvenue sur mon portfolio personnel développé avec Python et Dash.
+Étudiante en Master 2 Économétrie Appliquée à l’IAE Nantes.
 
-Je suis étudiante en Master 2 Économétrie Appliquée à l'IAE Nantes.
+Ce portfolio regroupe plusieurs projets académiques réalisés au cours de ma formation, autour de l’analyse de données, de l’économétrie, de la data science et de la prévision.
 
-Ce portfolio présente :
+## Projets
 
-- mon profil
-- ma formation
-- mes compétences
-- mes projets en data analyse et data science
-- mes expériences
+Les projets sont organisés en plusieurs catégories :
+
+- Économétrie & analyse de données
+- Biostatistique
+- Data science & prévision
+- Finance
+
+Chaque projet présente le sujet étudié, les principales méthodes utilisées et, lorsqu’il est disponible, le rapport associé.
 
 ## Technologies utilisées
 
-- Python
-- Dash
-- Plotly
-- Git
-- GitHub
-- Render
+Python • R • SQL • Dash • Plotly • Power BI • Git • GitHub
 
-## Objectif
+## À propos du portfolio
 
-Mettre en valeur mes projets en économétrie, data analyse et data science à travers une application web interactive développée en Python.
+Le portfolio a été développé avec Python et Dash afin de présenter mes projets de manière claire et interactive.
