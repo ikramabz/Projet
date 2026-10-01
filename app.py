@@ -324,7 +324,7 @@ def navbar():
                         ),
 
                         dcc.Link(
-                            "Présentation",
+                            "Qui suis-je ?",
                             href="/presentation",
                             className="nav-link",
                         ),
